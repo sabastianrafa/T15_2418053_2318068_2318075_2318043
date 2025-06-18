@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Jalan
+comment1.params=
+comment1.target=Jalan()
+comment2.params=
+comment2.target=boolean\ isGameOver()
+comment3.params=state
+comment3.target=void\ setGameOver(boolean)
+comment4.params=
+comment4.target=void\ prepare()
+numComments=5
